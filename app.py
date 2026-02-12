@@ -4,7 +4,7 @@ import os
 
 app = Flask(__name__)
 
-SUPABASE_URL = "https://ioxmssaxiqqvhqowrxwi.supabase.co"
+SUPABASE_URL = "https://hokratbtddzrdwuqfjww.supabase.co"
 SUPABASE_API_KEY = os.getenv("SUPABASE_API_KEY")
 TABLE_NAME = "Data"
 
